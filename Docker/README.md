@@ -14,7 +14,7 @@
    * docker run -p 6080:80 --privileged --name itm-sigma sigma
 
 Alternatively you can pull the image from dockerhub:
-   * docker run -p 6080:80 --privileged --name ikerlan -d juandpenan/sumo-dev:0.0.0
+   * docker run -p 6080:80 --privileged --name sigma -d juandpenan/sumo-dev:0.0.0
 
 Now open your browser and connect to: localhost:6080
 
